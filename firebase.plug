@@ -1,0 +1,6 @@
+[Core]
+Name = Firebase
+Module = firebasepg
+
+[Documentation]
+Description = This is the storage plugin for Firebase.
